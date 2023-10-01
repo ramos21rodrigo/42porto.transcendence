@@ -19,7 +19,7 @@ https://github.com/ramos21rodrigo/42porto.transcendence/assets/58150291/2caef13d
 2. Clone && cd
 
 ```
-git clone https://github.com/Kuninoto/42_ft_transcendence && cd 42porto.transcendence
+git clone https://github.com/ramos21rodrigo/42porto.transcendence && cd 42porto.transcendence
  ```
 3. Write a ` .env ` file on /backend and /frontend like the ` .env.example ` to use your very own configurations 
 
@@ -30,6 +30,6 @@ git clone https://github.com/Kuninoto/42_ft_transcendence && cd 42porto.transcen
 > Disclaimer: Only tested on Google Chrome and Brave
 ___
 ###### At  [42School](https://en.wikipedia.org/wiki/42_(school)), every project has specific rules or restrictions, and some of them must be written in accordance with the [Norm](https://github.com/42School/norminette). As a result, parts of the code could be more readable or explicit, and some used technologies could be different.
-Made with tears 🥲
+Made with tears 🥲 Rodrigo
 
  
