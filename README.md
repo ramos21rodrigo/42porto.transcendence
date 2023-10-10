@@ -8,8 +8,7 @@
 ![Nest](https://img.shields.io/badge/-Nestjs-E0234E?logo=Nestjs&style=flat")
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff&style=flat")
 
-## 🤝 With
-[Kuninoto](https://github.com/Kuninoto/42_ft_transcendence) - [Crash](https://github.com/RealMadnessWorld)
+Done with [Kuninoto](https://github.com/Kuninoto/42_ft_transcendence) and [Crash](https://github.com/RealMadnessWorld)
 
 ## 👀 Preview
 https://github.com/ramos21rodrigo/42porto.transcendence/assets/58150291/2caef13d-fc35-4e4f-a404-c19b133c74ee
