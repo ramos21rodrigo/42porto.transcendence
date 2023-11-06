@@ -11,7 +11,7 @@
 Done with [Kuninoto](https://github.com/Kuninoto/42_ft_transcendence) and [Crash](https://github.com/RealMadnessWorld)
 
 ## 👀 Preview
-https://github.com/ramos21rodrigo/42porto.transcendence/assets/58150291/2caef13d-fc35-4e4f-a404-c19b133c74ee
+https://github.com/ramos21rodrigo/42porto.transcendence/assets/58150291/43b4cdd8-226d-495b-95b1-735cd5be315d
 
 ## 🌟 Skills
 > Web   
